@@ -1,4 +1,4 @@
-# Spam_filter
+# Spam Classificantion using Naive Bayes
 
 University project - Spam classification using Multinomial and Bernoulli Naïve Bayes
 
