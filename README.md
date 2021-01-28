@@ -1,7 +1,5 @@
 # Spam_filter
 
-University project - Clustering of main conformation of protein chains using DBSCAN and K-means
+University project - Spam classification using Multinomial and Bernoulli Naïve Bayes
 
-Chalmers University of Technology (Autumn 2020) Course: Introduction to Data Science & AI Assignment grade: 9/10
-
-Assignment instructions in separate PDF.
+Chalmers University of Technology (Autumn 2020) Course: Introduction to Data Science & AI Assignment grade: 10/10
